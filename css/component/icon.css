@@ -1,0 +1,23 @@
+.icon {
+  display: inline;
+  background-color: $color-icon-background;
+  width: 3em;
+  height: auto;
+  float: right;
+}
+.arrow-up {
+  -webkit-mask-image: url("../icon/arrow-up.svg");
+  mask-image: url("../icon/arrow-up.svg");
+}
+.arrow-left {
+  -webkit-mask-image: url("../icon/arrow-left.svg");
+  mask-image: url("../icon/arrow-left.svg");
+}
+.arrow-right {
+  -webkit-mask-image: url("../icon/arrow-right.svg");
+  mask-image: url("../icon/arrow-right.svg");
+}
+.close-btn {
+  -webkit-mask-image: url("../icon/close-btn.svg");
+  mask-image: url("../icon/close-btn.svg");
+}
